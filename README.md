@@ -55,17 +55,13 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaomeyly&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kaomeyly&theme=shades-of-purple&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaomeyly&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kaomeyly&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -77,8 +73,6 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 
 ## 🔝 Top Contributed Repositories
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=kaomeyly&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=kaomeyly&icon=0&color=0)](https://visitcount.itsvg.in)
