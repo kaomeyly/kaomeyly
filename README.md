@@ -77,14 +77,6 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaomeyly&theme=merko&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## ✍️ Developer Quote
 
 <p align="center">
@@ -93,14 +85,10 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kaomeyly&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kaomeyly&icon=0&color=3" alt="Profile Views" />
-</p>
+## 🔝 Top Contributed Repositories
+
