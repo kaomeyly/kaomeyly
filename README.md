@@ -77,15 +77,15 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 
 ---
 
+## 🏆 GitHub Trophies
+
+---
+
 ## ✍️ Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 
 ---
