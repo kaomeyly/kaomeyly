@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-I am Kao Meyly, a dedicated student and aspiring software developer with a strong interest in mobile and full-stack development. I am committed to continuous learning and building meaningful, impactful applications.
+I am Kao Meyly, a dedicated student and aspiring software developer with a strong interest in mobile and full-stack development. I am committed to continuous learning and building meaningful, impactful applications..
 
 - 🔭 Currently expanding my expertise in mobile application development
 - 🌱 Actively learning Flutter, Swift, and Kotlin
