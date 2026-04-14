@@ -55,10 +55,6 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaomeyly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -71,9 +67,6 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 
 ## 🌐 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaomeyly&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
 
 ---
 
