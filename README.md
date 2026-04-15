@@ -12,7 +12,7 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 - 💡 Open to collaboration on innovative software projects
 - 📫 Reach me at: kaomeyly@gmail.com
 
----
+----
 
 ## 🌐 Socials
 
