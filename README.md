@@ -1,7 +1,7 @@
 # 👩‍💻 Kao Meyly
 ### Software Developer | Computer Science Student
 
----
+----
 
 ## 💫 About Me
 
