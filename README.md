@@ -60,8 +60,10 @@ I am Kao Meyly, a dedicated student and aspiring software developer with a stron
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaomeyly&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kaomeyly&theme=radical&hide_border=false" />
 </p>
+
+
 
 ---
 
